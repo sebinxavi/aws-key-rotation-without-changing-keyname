@@ -236,8 +236,8 @@ ssh -i server-key.pem user@{server-IP}}
 
 In this playbook, We are using the same SSH key pair name for accessing the server with replaced SSH key material. I have created another ansible playbook that can be used if you would like to access the server with new key name. If you would like to access the server with new SSH key name, please refer another playbook from my [Github repository](https://github.com/sebinxavi/aws-key-rotation.git)
 
-## Contact
-Created by [@sebinxavi](https://www.linkedin.com/in/sebinxavi/) - feel free to contact me!
+## Author
+Created by [@sebinxavi](https://www.linkedin.com/in/sebinxavi/) - feel free to contact me and advise as necessary!
 
 <a href="mailto:sebin.xavi1@gmail.com"><img src="https://img.shields.io/badge/-sebin.xavi1@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/sebinxavi"><img src="https://img.shields.io/badge/-Linkedin-blue"/></a>
