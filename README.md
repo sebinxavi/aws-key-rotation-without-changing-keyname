@@ -41,8 +41,8 @@ The playbook will perform following operations;
 - Print Old authorized_keys file
 - Print New authorized_keys file
 - Replace Old SSH public key From AWS Account
-- Rename new Private Key Locally
-- Rename Public Key locally in ansible an
+- Rename new Private Key Locally in ansible master server
+- Rename Public Key locally in ansible master server
 
 The playbook has been written below::
 ~~~
