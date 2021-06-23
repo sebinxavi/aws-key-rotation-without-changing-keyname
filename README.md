@@ -13,8 +13,8 @@ As a AWS security best practice, it is necessary to regularly rotate EC2 key pai
 - ansible - version 2.9.20
 
 ## Prerequisites
-- Ansible version - 2.9
 - Ansible Master Server - Linux
+- Ansible version - 2.9
 - SSH access to client servers
 - SSH PEM key of the client servers
 - SSH User with sudo privilege
